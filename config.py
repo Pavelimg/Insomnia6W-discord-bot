@@ -1,6 +1,6 @@
 settings = {
     'ID': '535128939170103307',
-    'token': 'NTM1MTI4OTM5MTcwMTAzMzA3.XD9XqQ.SJD516cXnXbDbxEcr-mcKOOLsa4',
+    'token': 'Hide',
     'bot_name': 'Insomnia',
     'prefix': '!'
 }
